@@ -15,7 +15,7 @@ function setupMenu(link, drop) {
                 drop.classList.remove("comeUp");
                 drop.classList.add("menuDrop");
             }
-        }, 50);
+        }, 300);
     });
     drop.addEventListener("mouseenter", () => {
         overDrop = true;
@@ -29,7 +29,7 @@ function setupMenu(link, drop) {
                 drop.classList.remove("comeUp");
                 drop.classList.add("menuDrop");
             }
-        }, 50);
+        }, 300);
     });
 }
 document.getElementById("link1").addEventListener("mouseenter",()=>{

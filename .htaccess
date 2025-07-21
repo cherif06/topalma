@@ -1,0 +1,22 @@
+RewriteEngine On
+
+#------- Route globales --------
+RewriteRule ^Accueil$ index.php
+RewriteRule ^Secteur-dactivite$ secteur_activite/secteur_activite.php
+RewriteRule ^Gestion-de-flotte-dentreprise$ secteur_activite/flotte_entreprise.php
+RewriteRule ^Gestion-de-flotte-pour-btp-et-chantiers$ secteur_activite/btp_construction.php
+RewriteRule ^Gestion-de-flotte-pour-transport-et-logistique$ secteur_activite/transport_logistique.php
+RewriteRule ^Gestion-de-flotte-pour-leasers-et-location-de-voiture$ secteur_activite/location_leasing.php
+RewriteRule ^Gestion-de-flotte-pour-taxis-et-vtc$ secteur_activite/taxis_vtc.php
+RewriteRule ^Gestion-de-flotte-pour-transport-de-passagers$ secteur_activite/transport_passagers.php
+RewriteRule ^Gestion-de-flotte-pour-services-et-maintenance$ secteur_activite/services_maintenance.php
+
+#------- Route img --------
+RewriteRule ^logo-topalma$ assets/img/logo_topalma2.jpg
+RewriteRule ^bgAccueil$ assets/img/bg1.jpg
+
+#------- Route file --------
+RewriteRule ^Output$ assets/css/output.css
+RewriteRule ^swiperJs$ assets/js/swiper.js
+RewriteRule ^navbarJs$ assets/js/navbar.js
+
