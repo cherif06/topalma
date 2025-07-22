@@ -24,8 +24,8 @@
                     id="link1">Solutions</a>
                 <a href="Secteur-dactivite" class="py-8 hover:text-green-600 transition duration-200 text-sm uppercase font-bold"
                     id="link2">Secteurs d'activité</a>
-                <a href="#" class=" hover:text-green-600 transition duration-200 text-sm uppercase font-bold">Asset
-                    tracking</a>
+                <!-- <a href="#" class=" hover:text-green-600 transition duration-200 text-sm uppercase font-bold">Asset
+                    tracking</a> -->
             </nav>
             <a href="#"
                 class="block px-4 py-3 lg:absolute lg:right-0 border text-center font-semibold text-sm leading-none border-gray-700 hover:bg-gray-900 hover:text-white rounded-sm transition duration-300">Demandez
@@ -63,7 +63,7 @@
         <li class="hover:text-green-600 transition duration-200 font-bold hidden text-sm ml-5 solution"><a
                 href="">Toutes nos solutions</a></li>
         <li class="hover:text-green-600 transition duration-200 font-bold secteur-trigger cursor-pointer"><a
-                href="Secteur-dactivite">Secteurs d'activité</a></li>
+               >Secteurs d'activité</a></li>
         <li class="hover:text-green-600 transition duration-200 font-bold hidden text-sm ml-5 secteur"><a
                 href="Gestion-de-flotte-dentreprise">Flottes d'Entreprise</a></li>
         <li class="hover:text-green-600 transition duration-200 font-bold hidden text-sm ml-5 secteur"><a href="Gestion-de-flotte-pour-btp-et-chantiers">btp /
@@ -78,7 +78,7 @@
                 href="Gestion-de-flotte-pour-transport-de-passagers">transport de passagers</a></li>
         <li class="hover:text-green-600 transition duration-200 font-bold hidden text-sm ml-5 secteur"><a
                 href="Gestion-de-flotte-pour-services-et-maintenance">services / maintenance</a></li>
-        <li class="hover:text-green-600 transition duration-200 font-bold"><a href="">Asset tracking</a></li>
+        <!-- <li class="hover:text-green-600 transition duration-200 font-bold"><a href="">Asset tracking</a></li> -->
     </ul>
 
 
