@@ -1,0 +1,42 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+@layer base {
+    body {
+        font-family: 'Roboto';
+        box-sizing: border-box;
+    }
+    .bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+    .montserrat{
+        font-family: "Montserrat";
+    }
+    .feature-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+    }
+    .comeUp {
+        opacity: 1 !important;
+        pointer-events: auto;
+        transition: opacity 300ms ease-in-out !important;
+        display: flex !important;
+    }
+    .menuDrop {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transition: opacity 300ms ease-in-out !important;
+        display: none !important;
+    }
+}
