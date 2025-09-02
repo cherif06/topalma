@@ -32,7 +32,7 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-50">
+        <div class="container mx-auto px-4 lg:px-20">
             <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation Topalma</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 1 -->

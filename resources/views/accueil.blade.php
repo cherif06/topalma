@@ -122,7 +122,7 @@
             <button id="prev" class="absolute top-1/2 cursor-pointer left-2 transform text-black w-10 h-10 z-10 hover:text-green-600 transition duration-300"><i class="fa-solid fa-chevron-left text-2xl md:text-4xl"></i></button>
     
             <div class="swiper">
-                <div class="swiper-wrapper w-full">
+                <div class="swiper-wrapper container">
                     <a href="Gestion-de-flotte-dentreprise" class="block swiper-slide shadow-lg/30">
                         <img src="{{ asset('img/sa1.jpg') }}" class="w-full h-50 object-cover" />
                         <div class="bg-gray-900 text-white text-center py-2 font-bold uppercase text-sm">flottes d'entreprise</div>
