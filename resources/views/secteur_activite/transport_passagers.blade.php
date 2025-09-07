@@ -1,15 +1,8 @@
-<x-layout title="Gestion de flotte pour transport de passagers - Topalma">
+<x-layout title="Gestion de flotte pour transport de passagers - MobilisTrack">
 
     <!-- Hero Section -->
     <div class="bg-zinc-900">
-                <div class="p-5 content-center xl:px-[100px] mb-15 md:mb-0">
-                    <img src="{{ asset('img/tp4.png') }}" class="rounded " alt="">
-                </div>
-
-                <!-- Feature 3 -->
-                <div class="p-5 content-center lg:px-20">
-                    <img src="{{ asset('img/fe3.jpg') }}" class="rounded " alt="">
-                </div><section class="w-full h-[600px] bg-center bg-no-repeat bg-cover sm:mask-l-from-90%" style="background-image: url({{ asset('img/tp1.jpg') }});">
+        <section class="w-full h-[600px] bg-center bg-no-repeat bg-cover sm:mask-l-from-90%" style="background-image: url({{ asset('img/tp1.jpg') }});">
             <div class="container h-full px-4 lg:px-30 text-white flex items-center">
                 <div class="sm:pl-10">
                     <h1 class="text-4xl lg:text-5xl lg:w-[500px] text-shadow-lg/30 montserrat text-gray-50 font-extrabold mb-6">Géolocalisation, gestion de flotte pour le transport de passagers</h1>
@@ -33,8 +26,8 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-50">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution Topalma</h1>
+        <div class="container mx-auto px-4 lg:px-32">
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution MobilisTrack</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 5 -->
                 <div class="shadow-md rounded-md p-5 flex flex-col items-center ">
@@ -93,7 +86,7 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="mx-auto sm:px-4 xl:px-30">
+        <div class="mx-auto sm:px-4 xl:px-32">
             <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">Découvrez nos solutions pour le secteur du transport de passagers</h1>
             <div class="grid md:grid-cols-2 place-items-center gap-x-4 md:gap-y-15">
                 <!-- Feature 1 -->

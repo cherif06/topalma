@@ -1,4 +1,4 @@
-<x-layout title="Gestion de flotte pour transport et logistique - Topalma">
+<x-layout title="Gestion de flotte pour transport et logistique - MobilisTrack">
 
     <!-- Hero Section -->
     <div class="bg-zinc-900">
@@ -30,8 +30,8 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-50">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation Topalma</h1>
+        <div class="container mx-auto px-4 lg:px-32">
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation MobilisTrack</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 5 -->
                 <div class="shadow-md rounded-md p-5 flex flex-col items-center ">
@@ -90,7 +90,7 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="mx-auto sm:px-4 xl:px-30">
+        <div class="mx-auto sm:px-4 xl:px-32">
             <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">Découvrez nos solutions pour le secteur du transport et de la logistique</h1>
             <div class="grid md:grid-cols-2 place-items-center gap-x-4 md:gap-y-15">
                 <!-- Feature 1 -->

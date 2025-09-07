@@ -1,14 +1,7 @@
-<x-layout title="Gestion de flotte pour les taxis et VTC - Topalma">
+<x-layout title="Gestion de flotte pour les taxis et VTC - MobilisTrack">
 
     <!-- Hero Section -->
-    <div                <div class="p-5 content-center mb-15 md:mb-0">
-                    <img src="{{ asset('img/tv2.jpg') }}" class="rounded " alt="">
-                </div>
-
-                <!-- Feature 3 -->
-                <div class="p-5 content-center lg:px-10">
-                    <img src="{{ asset('img/tv3.jpg') }}" class="rounded" alt="">
-                </div>bg-zinc-900">
+    <div class="bg-zinc-900">
         <section class="w-full h-[600px] bg-center bg-no-repeat bg-cover sm:mask-l-from-90%" style="background-image: url({{ asset('img/tv1.jpg') }});">
             <div class="container h-full px-4 lg:px-30 text-white flex items-center">
                 <div class="sm:pl-10">
@@ -29,15 +22,15 @@
                 En optimisant la gestion de votre parc de véhicules, réduisez les temps d’attente pour vos clients, améliorez la sécurité de vos chauffeurs et réduisez les coûts liés à la maintenance et à l’entretien des véhicules.
             </p>
             <p class="text-gray-700">
-                Découvrez comment Topalma peut transformer la gestion de votre activité en une expérience plus intelligente, plus efficace, plus rentable et simplifiée.
+                Découvrez comment MobilisTrack peut transformer la gestion de votre activité en une expérience plus intelligente, plus efficace, plus rentable et simplifiée.
             </p>
         </div>
     </section>
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-50">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de gestion de flotte Topalma</h1>
+        <div class="container mx-auto px-4 lg:px-32">
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de gestion de flotte MobilisTrack</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 5 -->
                 <div class="shadow-md rounded-md p-5 flex flex-col items-center ">
@@ -96,7 +89,7 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="mx-auto sm:px-4 xl:px-30">
+        <div class="mx-auto sm:px-4 xl:px-32">
             <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">Découvrez nos solutions pour les TAXIS et VTC</h1>
             <div class="grid md:grid-cols-2 place-items-center gap-x-4 md:gap-y-15">
                 <!-- Feature 1 -->
@@ -157,7 +150,7 @@
     <section class="py-12">
         <div class="container text-center mx-auto font-medium space-y-4 lg:px-[150px] px-4">
             <p class="text-gray-700">
-                En choisissant Topalma pour la gestion de votre flotte de taxis ou VTC, vous bénéficiez d’une solution complète et personnalisable qui répond aux exigences de votre métier. Notre technologie de pointe vous permet de suivre en temps réel l’emplacement et l’état de vos véhicules, de planifier et de suivre les entretiens, de contrôler les dépenses et d’optimiser les itinéraires. Nous sommes à votre disposition pour répondre à toutes vos questions et pour vous aider à choisir la formule qui convient le mieux à vos besoins.            
+                En choisissant MobilisTrack pour la gestion de votre flotte de taxis ou VTC, vous bénéficiez d’une solution complète et personnalisable qui répond aux exigences de votre métier. Notre technologie de pointe vous permet de suivre en temps réel l’emplacement et l’état de vos véhicules, de planifier et de suivre les entretiens, de contrôler les dépenses et d’optimiser les itinéraires. Nous sommes à votre disposition pour répondre à toutes vos questions et pour vous aider à choisir la formule qui convient le mieux à vos besoins.            
             </p>
             <p class="text-gray-700 mb-7">
                 Contactez-nous dès aujourd’hui pour en savoir plus sur nos solutions et comment nous pouvons aider votre entreprise à atteindre ses objectifs.

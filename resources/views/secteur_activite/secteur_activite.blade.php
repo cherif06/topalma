@@ -1,4 +1,4 @@
-<x-layout title="Secteurs d'activité - Topalma">
+<x-layout title="Secteurs d'activité - MobilisTrack">
 
     <!-- Hero Section -->
     <div class="bg-zinc-900">
@@ -15,19 +15,19 @@
     <!-- Section  -->
     <section class="py-12">
         <div class="container mx-auto font-medium space-y-6 lg:px-[150px] px-4">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">LES solutionS métiers Topalma</h1>
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">LES solutionS métiers MobilisTrack</h1>
             <p class="text-gray-700">
-                Améliorez les performances de votre entreprise, quelle que soit sa taille ou son secteur d’activité, avec les solutions de gestion de flotte et de géolocalisation de véhicules, engins et actifs de Topalma.
+                Améliorez les performances de votre entreprise, quelle que soit sa taille ou son secteur d’activité, avec les solutions de gestion de flotte et de géolocalisation de véhicules, engins et actifs de MobilisTrack.
             </p>
             <p class="text-gray-700">
-                Nos outils avancés de suivi de flotte en temps réel et notre expertise inégalée en matière de gestion de flotte vous aideront à optimiser vos opérations, à réduire les coûts et à surpasser vos concurrents. Avec Topalma, bénéficiez d’une visibilité totale sur votre flotte de véhicules, engins et actifs et prenez des décisions éclairées pour améliorer l’efficacité et la rentabilité de votre entreprise.
+                Nos outils avancés de suivi de flotte en temps réel et notre expertise inégalée en matière de gestion de flotte vous aideront à optimiser vos opérations, à réduire les coûts et à surpasser vos concurrents. Avec MobilisTrack, bénéficiez d’une visibilité totale sur votre flotte de véhicules, engins et actifs et prenez des décisions éclairées pour améliorer l’efficacité et la rentabilité de votre entreprise.
             </p>
         </div>
     </section>
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="w-full md:mx-auto lg:px-50">
+        <div class="w-full md:mx-auto lg:px-32">
             <div class="grid md:grid-cols-4 text-center text-white">
                 <!-- Feature 5 -->
                  <a href="Gestion-de-flotte-dentreprise">

@@ -1,4 +1,4 @@
-<x-layout title="Gestion de flotte pour le BTP et chantiers - Topalma">
+<x-layout title="Gestion de flotte pour le BTP et chantiers - MobilisTrack">
 
     <!-- Hero Section -->
     <div class="bg-zinc-900">
@@ -20,7 +20,7 @@
                 d’équipements et d’engins, la maintenance et l’entretien réguliers, ainsi que l’optimisation de l’utilisation des équipements et des engins.
             </p>
             <p class="text-gray-700">
-                Topalma propose des solutions de géolocalisation pour aider les entreprises du BTP à relever ces défis. Nos solutions permettent de suivre 
+                MobilisTrack propose des solutions de géolocalisation pour aider les entreprises du BTP à relever ces défis. Nos solutions permettent de suivre 
                 en temps réel l’emplacement des équipements et des engins, même s’ils ne sont pas alimentés, grâce à notre technologie d’asset tracking indoor/outdoor.
             </p>
             <p class="text-gray-700">
@@ -34,8 +34,8 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-50">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation Topalma</h1>
+        <div class="container mx-auto px-4 lg:px-32">
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation MobilisTrack</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 5 -->
                 <div class="shadow-md rounded-md p-5 flex flex-col items-center ">
@@ -168,7 +168,7 @@
                         avant leur départ/retour sur chantier. Optimisez l’utilisation des équipements grâce à des rapports détaillés.                    
                     </p>
                     <p class="text-gray-800 mb-3">
-                        La solution Topalma permet également une meilleure gestion des conducteurs et une conformité réglementaire 
+                        La solution MobilisTrack permet également une meilleure gestion des conducteurs et une conformité réglementaire 
                         optimale grâce au téléchargement des données de chronotachygraphe. Les entreprises peuvent améliorer la productivité, 
                         réduire les coûts et améliorer la sécurité sur les chantiers.
                     </p>

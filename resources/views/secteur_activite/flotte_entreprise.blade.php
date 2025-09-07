@@ -1,4 +1,4 @@
-<x-layout title="Gestion de flotte pour entreprises - Topalma">
+<x-layout title="Gestion de flotte pour entreprises - MobilisTrack">
 
     <!-- Hero Section -->
     <div class="bg-zinc-900">
@@ -16,7 +16,7 @@
     <section class="py-12">
         <div class="container mx-auto font-medium space-y-6 lg:px-[150px] px-4">
             <p class="text-gray-700">Notre solution innovante est spécialement conçue pour répondre aux défis quotidiens auxquels les gestionnaires de
-            flottes font face. Que vous gériez une flotte de quelques véhicules ou de plusieurs centaines, Topalma vous offre une
+            flottes font face. Que vous gériez une flotte de quelques véhicules ou de plusieurs centaines, MobilisTrack vous offre une
             visibilité totale et en temps réel sur l’ensemble de vos actifs mobiles.
             </p>
             <p class="text-gray-700">La solution intègre également des outils de gestion des entretiens simplifiée, de suivi des dépenses, de calcul du TCO
@@ -24,7 +24,7 @@
             suivi du kilométrage réel et de la consommation réelle. Ces fonctionnalités permettent une gestion plus précise et plus
             efficace de la flotte, tout en garantissant la sécurité et la confidentialité des données personnelles des conducteurs.
             </p>
-            <p class="text-gray-700">Découvrez comment Topalma peut transformer votre gestion de flotte en une expérience plus intelligente, plus efficace,
+            <p class="text-gray-700">Découvrez comment MobilisTrack peut transformer votre gestion de flotte en une expérience plus intelligente, plus efficace,
             plus rentable et simplifiée.
             </p>
         </div>
@@ -32,8 +32,8 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="container mx-auto px-4 lg:px-20">
-            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation Topalma</h1>
+        <div class="container mx-auto px-4 lg:px-32">
+            <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">La solution de géolocalisation MobilisTrack</h1>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 text-center">
                 <!-- Feature 1 -->
                 <div class="shadow-md rounded-md p-5 flex flex-col items-center ">
@@ -92,7 +92,7 @@
 
     <!-- Section avantage-->
     <section class="pt-10 pb-20 bg-zinc-200">
-        <div class="mx-auto sm:px-4 xl:px-30">
+        <div class="mx-auto sm:px-4 xl:px-32">
             <h1 class="uppercase text-center montserrat font-extrabold text-3xl mb-10">Découvrez nos solutions pour leS FLOTTES D'ENTREPRISES</h1>
             <div class="grid md:grid-cols-2 place-items-center gap-x-4 md:gap-y-15">
                 <!-- Feature 1 -->
